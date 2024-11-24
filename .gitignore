@@ -4,3 +4,4 @@ obj/
 
 # editor files
 .vscode/
+.venv/

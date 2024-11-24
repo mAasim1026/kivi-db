@@ -1,0 +1,1001 @@
+ThreadID,Command,ResponseTime
+5,delete key16,4755.0201
+5,delete key2,241.7564
+5,update key23 newvalue23,92.9832
+5,delete key1,220.7756
+5,update key16 newvalue16,225.0671
+5,update key2 newvalue2,309.9442
+5,delete key10,273.9429
+5,get key18,197.1722
+5,get key23,168.0851
+5,set key24 value24,82.9697
+5,set key23 value23,219.1067
+5,get key21,195.0264
+5,get key6,206.9473
+5,update key6 newvalue6,202.8942
+5,set key18 value18,197.8874
+5,update key11 newvalue11,128.9845
+5,update key25 newvalue25,218.8683
+5,delete key15,252.0084
+5,update key4 newvalue4,241.0412
+5,update key13 newvalue13,214.8151
+5,update key5 newvalue5,187.8738
+5,delete key6,151.1574
+5,set key17 value17,219.1067
+5,delete key20,294.9238
+5,update key10 newvalue10,274.1814
+5,set key7 value7,104.9042
+5,get key15,213.1462
+5,set key13 value13,201.9405
+5,get key9,216.0072
+5,get key12,194.0727
+5,set key14 value14,177.8603
+5,get key5,183.1055
+5,get key8,182.1518
+5,update key22 newvalue22,28.1334
+5,update key24 newvalue24,173.0919
+5,get key1,183.1055
+5,get key3,135.1833
+5,delete key13,173.0919
+5,get key22,216.0072
+5,get key19,247.7169
+5,delete key8,175.9529
+5,set key19 value19,126.8387
+5,get key20,194.0727
+5,delete key12,210.7620
+5,delete key7,293.0164
+5,set key16 value16,218.1530
+5,delete key9,195.7417
+5,update key17 newvalue17,245.0943
+5,set key8 value8,208.8547
+5,delete key25,379.8008
+5,update key19 newvalue19,196.6953
+5,delete key11,116.8251
+5,set key1 value1,233.1734
+5,get key11,3292.7990
+5,set key3 value3,217.1993
+5,set key20 value20,174.9992
+5,delete key5,185.7281
+5,update key18 newvalue18,125.8850
+5,update key1 newvalue1,185.9665
+5,set key6 value6,225.0671
+5,update key8 newvalue8,195.2648
+5,set key4 value4,221.0140
+5,delete key23,375.0324
+5,get key10,123.9777
+5,set key11 value11,196.9337
+5,delete key18,220.0603
+5,update key3 newvalue3,195.9801
+5,delete key19,195.0264
+5,delete key22,135.1833
+5,set key15 value15,227.6897
+5,get key16,189.7812
+5,delete key21,201.9405
+5,update key12 newvalue12,220.7756
+5,set key5 value5,204.0863
+5,set key9 value9,190.0196
+5,set key22 value22,224.8287
+5,update key15 newvalue15,226.9745
+5,update key14 newvalue14,214.8151
+5,update key9 newvalue9,43.1538
+5,get key2,188.1123
+5,get key25,228.1666
+5,set key10 value10,166.8930
+5,get key17,204.0863
+5,delete key24,157.8331
+5,set key21 value21,222.9214
+5,get key7,326.1566
+5,delete key4,201.9405
+5,delete key3,206.2321
+5,update key20 newvalue20,221.0140
+5,set key2 value2,219.1067
+5,get key4,223.8750
+5,delete key17,100.8511
+5,update key7 newvalue7,78.6781
+5,set key12 value12,219.1067
+5,get key14,224.1135
+5,get key24,221.9677
+5,update key21 newvalue21,268.6977
+5,set key25 value25,223.1598
+5,get key13,221.9677
+5,delete key14,154.9721
+8,delete key16,6142.1394
+8,delete key2,132.0839
+8,update key23 newvalue23,79.1550
+8,delete key1,194.0727
+8,update key16 newvalue16,214.8151
+8,update key2 newvalue2,218.1530
+8,delete key10,220.0603
+8,get key18,178.0987
+8,get key23,205.9937
+8,set key24 value24,226.0208
+8,set key23 value23,162.1246
+8,get key21,216.0072
+8,get key6,247.0016
+8,update key6 newvalue6,231.2660
+8,set key18 value18,243.1870
+8,update key11 newvalue11,204.0863
+8,update key25 newvalue25,149.9653
+8,delete key15,226.0208
+8,update key4 newvalue4,149.0116
+8,update key13 newvalue13,195.9801
+8,update key5 newvalue5,360.9657
+8,delete key6,226.2592
+8,set key17 value17,216.9609
+8,delete key20,215.0536
+8,update key10 newvalue10,217.9146
+8,set key7 value7,160.2173
+8,get key15,211.9541
+8,set key13 value13,207.9010
+8,get key9,208.1394
+8,get key12,189.3044
+8,set key14 value14,200.9869
+8,get key5,210.2852
+8,get key8,104.9042
+8,update key22 newvalue22,290.1554
+8,update key24 newvalue24,208.1394
+8,get key1,216.9609
+8,get key3,70.8103
+8,delete key13,221.9677
+8,get key22,219.1067
+8,get key19,396.0133
+8,delete key8,232.2197
+8,set key19 value19,218.1530
+8,get key20,226.9745
+8,delete key12,216.9609
+8,delete key7,236.7496
+8,set key16 value16,228.1666
+8,delete key9,240.8028
+8,update key17 newvalue17,178.8139
+8,set key8 value8,183.8207
+8,delete key25,205.7552
+8,update key19 newvalue19,269.6514
+8,delete key11,226.9745
+8,set key1 value1,215.0536
+8,get key11,228.8818
+8,set key3 value3,221.2524
+8,set key20 value20,211.9541
+8,delete key5,223.8750
+8,update key18 newvalue18,280.1418
+8,update key1 newvalue1,231.2660
+8,set key6 value6,205.7552
+8,update key8 newvalue8,187.8738
+8,set key4 value4,185.7281
+8,delete key23,304.6989
+8,get key10,198.1258
+8,set key11 value11,222.9214
+8,delete key18,217.9146
+8,update key3 newvalue3,258.9226
+8,delete key19,200.9869
+8,delete key22,236.9881
+8,set key15 value15,208.8547
+8,get key16,94.8906
+8,delete key21,244.8559
+8,update key12 newvalue12,214.0999
+8,set key5 value5,211.0004
+8,set key9 value9,199.7948
+8,set key22 value22,227.2129
+8,update key15 newvalue15,649.9290
+8,update key14 newvalue14,231.9813
+8,update key9 newvalue9,185.9665
+8,get key2,227.6897
+8,get key25,190.9733
+8,set key10 value10,222.2061
+8,get key17,221.0140
+8,delete key24,222.9214
+8,set key21 value21,269.8898
+8,get key7,215.0536
+8,delete key4,46.9685
+8,delete key3,233.8886
+8,update key20 newvalue20,427.0077
+8,set key2 value2,208.8547
+8,get key4,59.8431
+8,delete key17,226.7361
+8,update key7 newvalue7,209.0931
+8,set key12 value12,233.8886
+8,get key14,150.9190
+8,get key24,219.8219
+8,update key21 newvalue21,293.0164
+8,set key25 value25,216.9609
+8,get key13,320.9114
+8,delete key14,219.1067
+0,delete key16,4827.0226
+0,delete key2,447.9885
+0,update key23 newvalue23,205.7552
+0,delete key1,198.1258
+0,update key16 newvalue16,222.9214
+0,update key2 newvalue2,216.0072
+0,delete key10,236.0344
+0,get key18,198.1258
+0,get key23,221.9677
+0,set key24 value24,177.8603
+0,set key23 value23,197.8874
+0,get key21,206.9473
+0,get key6,209.8083
+0,update key6 newvalue6,216.9609
+0,set key18 value18,231.9813
+0,update key11 newvalue11,221.7293
+0,update key25 newvalue25,217.1993
+0,delete key15,638.9618
+0,update key4 newvalue4,95.1290
+0,update key13 newvalue13,206.7089
+0,update key5 newvalue5,214.8151
+0,delete key6,277.0424
+0,set key17 value17,205.9937
+0,delete key20,199.0795
+0,update key10 newvalue10,241.7564
+0,set key7 value7,211.9541
+0,get key15,214.0999
+0,set key13 value13,216.7225
+0,get key9,434.8755
+0,get key12,235.7960
+0,set key14 value14,149.0116
+0,get key5,206.9473
+0,get key8,216.0072
+0,update key22 newvalue22,138.0444
+0,update key24 newvalue24,182.1518
+0,get key1,115.1562
+0,get key3,229.1203
+0,delete key13,225.0671
+0,get key22,98.2285
+0,get key19,230.0739
+0,delete key8,224.1135
+0,set key19 value19,171.8998
+0,get key20,215.7688
+0,delete key12,361.9194
+0,delete key7,195.7417
+0,set key16 value16,55.0747
+0,delete key9,235.0807
+0,update key17 newvalue17,232.9350
+0,set key8 value8,306.8447
+0,delete key25,192.8806
+0,update key19 newvalue19,225.0671
+0,delete key11,179.2908
+0,set key1 value1,225.0671
+0,get key11,226.0208
+0,set key3 value3,221.2524
+0,set key20 value20,219.1067
+0,delete key5,214.8151
+0,update key18 newvalue18,274.8966
+0,update key1 newvalue1,1202.8217
+0,set key6 value6,204.0863
+0,update key8 newvalue8,221.9677
+0,set key4 value4,154.0184
+0,delete key23,180.0060
+0,get key10,225.0671
+0,set key11 value11,205.7552
+0,delete key18,188.1123
+0,update key3 newvalue3,204.0863
+0,delete key19,183.1055
+0,delete key22,228.8818
+0,set key15 value15,173.8071
+0,get key16,190.9733
+0,delete key21,68.6646
+0,update key12 newvalue12,200.9869
+0,set key5 value5,217.9146
+0,set key9 value9,289.2017
+0,set key22 value22,229.8355
+0,update key15 newvalue15,108.0036
+0,update key14 newvalue14,213.1462
+0,update key9 newvalue9,36.9549
+0,get key2,218.1530
+0,get key25,215.7688
+0,set key10 value10,211.2389
+0,get key17,337.8391
+0,delete key24,314.2357
+0,set key21 value21,902.1759
+0,get key7,118.0172
+0,delete key4,209.8083
+0,delete key3,113.2488
+0,update key20 newvalue20,216.0072
+0,set key2 value2,212.4310
+0,get key4,200.0332
+0,delete key17,207.9010
+0,update key7 newvalue7,232.2197
+0,set key12 value12,216.2457
+0,get key14,225.0671
+0,get key24,268.6977
+0,update key21 newvalue21,205.0400
+0,set key25 value25,214.0999
+0,get key13,216.9609
+0,delete key14,208.8547
+3,delete key16,4825.1152
+3,delete key2,203.8479
+3,update key23 newvalue23,110.8646
+3,delete key1,200.2716
+3,update key16 newvalue16,128.0308
+3,update key2 newvalue2,302.3148
+3,delete key10,511.8847
+3,get key18,231.0276
+3,get key23,835.6571
+3,set key24 value24,97.9900
+3,set key23 value23,195.9801
+3,get key21,175.7145
+3,get key6,224.1135
+3,update key6 newvalue6,344.0380
+3,set key18 value18,226.9745
+3,update key11 newvalue11,221.9677
+3,update key25 newvalue25,83.9233
+3,delete key15,137.0907
+3,update key4 newvalue4,219.8219
+3,update key13 newvalue13,185.2512
+3,update key5 newvalue5,228.8818
+3,delete key6,1599.7887
+3,set key17 value17,30.0407
+3,delete key20,209.8083
+3,update key10 newvalue10,157.8331
+3,set key7 value7,210.0468
+3,get key15,201.9405
+3,set key13 value13,246.0480
+3,get key9,210.2852
+3,get key12,216.9609
+3,set key14 value14,240.8028
+3,get key5,197.8874
+3,get key8,229.8355
+3,update key22 newvalue22,122.0703
+3,update key24 newvalue24,110.8646
+3,get key1,225.0671
+3,get key3,223.8750
+3,delete key13,324.7261
+3,get key22,201.9405
+3,get key19,317.8120
+3,delete key8,380.0392
+3,set key19 value19,214.0999
+3,get key20,49.8295
+3,delete key12,218.1530
+3,delete key7,277.9961
+3,set key16 value16,212.1925
+3,delete key9,153.7800
+3,update key17 newvalue17,228.1666
+3,set key8 value8,232.2197
+3,delete key25,176.9066
+3,update key19 newvalue19,208.1394
+3,delete key11,284.9102
+3,set key1 value1,190.2580
+3,get key11,217.9146
+3,set key3 value3,207.1857
+3,set key20 value20,305.1758
+3,delete key5,267.0288
+3,update key18 newvalue18,207.1857
+3,update key1 newvalue1,187.1586
+3,set key6 value6,214.0999
+3,update key8 newvalue8,191.2117
+3,set key4 value4,139.9517
+3,delete key23,202.1790
+3,get key10,1060.0090
+3,set key11 value11,131.1302
+3,delete key18,214.0999
+3,update key3 newvalue3,222.9214
+3,delete key19,209.3315
+3,delete key22,218.1530
+3,set key15 value15,213.6230
+3,get key16,211.9541
+3,delete key21,149.9653
+3,update key12 newvalue12,231.7429
+3,set key5 value5,230.0739
+3,set key9 value9,198.8411
+3,set key22 value22,236.0344
+3,update key15 newvalue15,226.9745
+3,update key14 newvalue14,252.0084
+3,update key9 newvalue9,227.9282
+3,get key2,214.0999
+3,get key25,222.9214
+3,set key10 value10,355.7205
+3,get key17,226.9745
+3,delete key24,264.8830
+3,set key21 value21,220.7756
+3,get key7,191.9270
+3,delete key4,195.0264
+3,delete key3,229.1203
+3,update key20 newvalue20,152.1111
+3,set key2 value2,217.9146
+3,get key4,196.2185
+3,delete key17,220.0603
+3,update key7 newvalue7,217.1993
+3,set key12 value12,197.8874
+3,get key14,218.8683
+3,get key24,211.2389
+3,update key21 newvalue21,223.1598
+3,set key25 value25,211.0004
+3,get key13,301.1227
+3,delete key14,216.0072
+4,delete key16,4825.8305
+4,delete key2,199.7948
+4,update key23 newvalue23,281.8108
+4,delete key1,201.9405
+4,update key16 newvalue16,223.1598
+4,update key2 newvalue2,195.0264
+4,delete key10,201.9405
+4,get key18,192.1654
+4,get key23,183.8207
+4,set key24 value24,279.1882
+4,set key23 value23,268.6977
+4,get key21,202.1790
+4,get key6,206.7089
+4,update key6 newvalue6,226.0208
+4,set key18 value18,187.8738
+4,update key11 newvalue11,169.9924
+4,update key25 newvalue25,221.0140
+4,delete key15,204.0863
+4,update key4 newvalue4,232.9350
+4,update key13 newvalue13,218.1530
+4,update key5 newvalue5,233.8886
+4,delete key6,233.8886
+4,set key17 value17,154.9721
+4,delete key20,151.8726
+4,update key10 newvalue10,220.2988
+4,set key7 value7,200.7484
+4,get key15,264.1678
+4,set key13 value13,226.0208
+4,get key9,205.9937
+4,get key12,97.9900
+4,set key14 value14,1312.0174
+4,get key5,258460.9985
+4,get key8,76.7708
+4,update key22 newvalue22,338.0775
+4,update key24 newvalue24,291.1091
+4,get key1,169.9924
+4,get key3,143.0511
+4,delete key13,180.9597
+4,get key22,213.8615
+4,get key19,185.2512
+4,delete key8,217.1993
+4,set key19 value19,240.0875
+4,get key20,113.0104
+4,delete key12,165.9393
+4,delete key7,236.0344
+4,set key16 value16,200.0332
+4,delete key9,202.8942
+4,update key17 newvalue17,190.9733
+4,set key8 value8,215.0536
+4,delete key25,208.8547
+4,update key19 newvalue19,84.1618
+4,delete key11,215.0536
+4,set key1 value1,216.7225
+4,get key11,207.9010
+4,set key3 value3,218.8683
+4,set key20 value20,218.1530
+4,delete key5,344.9917
+4,update key18 newvalue18,226.0208
+4,update key1 newvalue1,236.0344
+4,set key6 value6,478.0293
+4,update key8 newvalue8,192.1654
+4,set key4 value4,179.7676
+4,delete key23,216.9609
+4,get key10,190.9733
+4,set key11 value11,180.0060
+4,delete key18,279.1882
+4,update key3 newvalue3,82.9697
+4,delete key19,236.9881
+4,delete key22,189.0659
+4,set key15 value15,46.2532
+4,get key16,235.0807
+4,delete key21,336.8855
+4,update key12 newvalue12,326.8719
+4,set key5 value5,201.9405
+4,set key9 value9,190.9733
+4,set key22 value22,274.8966
+4,update key15 newvalue15,211.9541
+4,update key14 newvalue14,45.0611
+4,update key9 newvalue9,188.8275
+4,get key2,185.9665
+4,get key25,223.1598
+4,set key10 value10,217.6762
+4,get key17,208.8547
+4,delete key24,221.9677
+4,set key21 value21,195.9801
+4,get key7,218.1530
+4,delete key4,222.9214
+4,delete key3,81.0623
+4,update key20 newvalue20,194.7880
+4,set key2 value2,281.0955
+4,get key4,40.2927
+4,delete key17,227.2129
+4,update key7 newvalue7,294.9238
+4,set key12 value12,212.9078
+4,get key14,217.9146
+4,get key24,222.9214
+4,update key21 newvalue21,228.8818
+4,set key25 value25,198.1258
+4,get key13,205.7552
+4,delete key14,201.9405
+7,delete key16,4765.9874
+7,delete key2,2870.0829
+7,update key23 newvalue23,54.1210
+7,delete key1,307.7984
+7,update key16 newvalue16,192.1654
+7,update key2 newvalue2,220.2988
+7,delete key10,196.6953
+7,get key18,208.1394
+7,get key23,186.9202
+7,set key24 value24,418.6630
+7,set key23 value23,220.0603
+7,get key21,206.7089
+7,get key6,192.1654
+7,update key6 newvalue6,221.9677
+7,set key18 value18,222.9214
+7,update key11 newvalue11,83.2081
+7,update key25 newvalue25,222.2061
+7,delete key15,258.2073
+7,update key4 newvalue4,185.9665
+7,update key13 newvalue13,168.3235
+7,update key5 newvalue5,226.7361
+7,delete key6,220.2988
+7,set key17 value17,100.1358
+7,delete key20,207.1857
+7,update key10 newvalue10,213.1462
+7,set key7 value7,864.0289
+7,get key15,209.8083
+7,set key13 value13,226.2592
+7,get key9,199.0795
+7,get key12,200.0332
+7,set key14 value14,202.1790
+7,get key5,78.9165
+7,get key8,38.8622
+7,update key22 newvalue22,203.1326
+7,update key24 newvalue24,226.7361
+7,get key1,365.9725
+7,get key3,192.8806
+7,delete key13,227.2129
+7,get key22,106.0963
+7,get key19,246.0480
+7,delete key8,178.0987
+7,set key19 value19,216.0072
+7,get key20,95.1290
+7,delete key12,173.8071
+7,delete key7,178.8139
+7,set key16 value16,236.0344
+7,delete key9,223.8750
+7,update key17 newvalue17,207.1857
+7,set key8 value8,231.0276
+7,delete key25,221.2524
+7,update key19 newvalue19,208.1394
+7,delete key11,196.9337
+7,set key1 value1,214.0999
+7,get key11,206.7089
+7,set key3 value3,211.9541
+7,set key20 value20,221.0140
+7,delete key5,212.1925
+7,update key18 newvalue18,224.1135
+7,update key1 newvalue1,228.8818
+7,set key6 value6,110.8646
+7,update key8 newvalue8,178.3371
+7,set key4 value4,211.9541
+7,delete key23,211.9541
+7,get key10,203.1326
+7,set key11 value11,235.0807
+7,delete key18,239.8491
+7,update key3 newvalue3,301.1227
+7,delete key19,388.8607
+7,delete key22,180.9597
+7,set key15 value15,239.8491
+7,get key16,216.2457
+7,delete key21,210.0468
+7,update key12 newvalue12,619.8883
+7,set key5 value5,207.1857
+7,set key9 value9,247.0016
+7,set key22 value22,205.9937
+7,update key15 newvalue15,195.9801
+7,update key14 newvalue14,85.8307
+7,update key9 newvalue9,225.0671
+7,get key2,218.1530
+7,get key25,215.0536
+7,set key10 value10,226.7361
+7,get key17,174.0456
+7,delete key24,100.8511
+7,set key21 value21,216.0072
+7,get key7,220.7756
+7,delete key4,204.0863
+7,delete key3,199.0795
+7,update key20 newvalue20,109.1957
+7,set key2 value2,118.0172
+7,get key4,67.9493
+7,delete key17,308.9905
+7,update key7 newvalue7,221.9677
+7,set key12 value12,200.2716
+7,get key14,227.6897
+7,get key24,190.0196
+7,update key21 newvalue21,433.9218
+7,set key25 value25,188.8275
+7,get key13,213.8615
+7,delete key14,195.0264
+2,delete key16,4823.6847
+2,delete key2,187.8738
+2,update key23 newvalue23,195.9801
+2,delete key1,72.0024
+2,update key16 newvalue16,245.0943
+2,update key2 newvalue2,240.0875
+2,delete key10,241.9949
+2,get key18,214.8151
+2,get key23,219.1067
+2,set key24 value24,180.9597
+2,set key23 value23,112.0567
+2,get key21,225.0671
+2,get key6,273.7045
+2,update key6 newvalue6,115.8714
+2,set key18 value18,214.0999
+2,update key11 newvalue11,230.3123
+2,update key25 newvalue25,988.2450
+2,delete key15,213.1462
+2,update key4 newvalue4,221.9677
+2,update key13 newvalue13,222.9214
+2,update key5 newvalue5,192.8806
+2,delete key6,311.1362
+2,set key17 value17,65.0883
+2,delete key20,62.9425
+2,update key10 newvalue10,220.0603
+2,set key7 value7,211.0004
+2,get key15,197.8874
+2,set key13 value13,227.9282
+2,get key9,208.1394
+2,get key12,232.2197
+2,set key14 value14,190.0196
+2,get key5,199.7948
+2,get key8,193.8343
+2,update key22 newvalue22,185.2512
+2,update key24 newvalue24,226.9745
+2,get key1,252.9621
+2,get key3,219.1067
+2,delete key13,126.8387
+2,get key22,41.2464
+2,get key19,310.8978
+2,delete key8,559.8068
+2,set key19 value19,285.3870
+2,get key20,218.1530
+2,delete key12,41.9617
+2,delete key7,228.8818
+2,set key16 value16,241.2796
+2,delete key9,190.0196
+2,update key17 newvalue17,217.1993
+2,set key8 value8,227.2129
+2,delete key25,215.0536
+2,update key19 newvalue19,194.0727
+2,delete key11,82.9697
+2,set key1 value1,227.2129
+2,get key11,78.2013
+2,set key3 value3,220.7756
+2,set key20 value20,195.9801
+2,delete key5,169.9924
+2,update key18 newvalue18,250.8163
+2,update key1 newvalue1,182.8671
+2,set key6 value6,197.1722
+2,update key8 newvalue8,207.9010
+2,set key4 value4,172.1382
+2,delete key23,187.8738
+2,get key10,293.0164
+2,set key11 value11,206.7089
+2,delete key18,204.0863
+2,update key3 newvalue3,218.8683
+2,delete key19,222.9214
+2,delete key22,194.0727
+2,set key15 value15,207.9010
+2,get key16,382.9002
+2,delete key21,226.0208
+2,update key12 newvalue12,236.0344
+2,set key5 value5,204.0863
+2,set key9 value9,221.2524
+2,set key22 value22,231.7429
+2,update key15 newvalue15,85.1154
+2,update key14 newvalue14,228.8818
+2,update key9 newvalue9,221.0140
+2,get key2,200.0332
+2,get key25,304.6989
+2,set key10 value10,188.8275
+2,get key17,141.1438
+2,delete key24,191.9270
+2,set key21 value21,767.9462
+2,get key7,223.8750
+2,delete key4,202.1790
+2,delete key3,318.0504
+2,update key20 newvalue20,103.9505
+2,set key2 value2,226.0208
+2,get key4,212.9078
+2,delete key17,219.1067
+2,update key7 newvalue7,307.7984
+2,set key12 value12,218.8683
+2,get key14,321.1498
+2,get key24,135.8986
+2,update key21 newvalue21,201.2253
+2,set key25 value25,290.1554
+2,get key13,451.0880
+2,delete key14,253.9158
+6,delete key16,6138.8016
+6,delete key2,62.9425
+6,update key23 newvalue23,143.2896
+6,delete key1,182.1518
+6,update key16 newvalue16,213.1462
+6,update key2 newvalue2,200.0332
+6,delete key10,181.9134
+6,get key18,144.2432
+6,get key23,206.9473
+6,set key24 value24,232.2197
+6,set key23 value23,280.1418
+6,get key21,226.9745
+6,get key6,200.9869
+6,update key6 newvalue6,170.9461
+6,set key18 value18,228.1666
+6,update key11 newvalue11,193.1190
+6,update key25 newvalue25,240.8028
+6,delete key15,180.9597
+6,update key4 newvalue4,179.0524
+6,update key13 newvalue13,187.8738
+6,update key5 newvalue5,319.2425
+6,delete key6,217.1993
+6,set key17 value17,183.1055
+6,delete key20,233.1734
+6,update key10 newvalue10,468.9693
+6,set key7 value7,207.1857
+6,get key15,205.9937
+6,set key13 value13,251.0548
+6,get key9,226.9745
+6,get key12,196.2185
+6,set key14 value14,339.9849
+6,get key5,231248.8556
+6,get key8,19.7887
+6,update key22 newvalue22,227.9282
+6,update key24 newvalue24,183.8207
+6,get key1,185.2512
+6,get key3,102.9968
+6,delete key13,175.9529
+6,get key22,312.8052
+6,get key19,216.0072
+6,delete key8,229.8355
+6,set key19 value19,60.3199
+6,get key20,216.0072
+6,delete key12,210.7620
+6,delete key7,211.2389
+6,set key16 value16,223.1598
+6,delete key9,221.9677
+6,update key17 newvalue17,157.1178
+6,set key8 value8,216.0072
+6,delete key25,361.2041
+6,update key19 newvalue19,205.0400
+6,delete key11,236.9881
+6,set key1 value1,274.1814
+6,get key11,89.8838
+6,set key3 value3,222.9214
+6,set key20 value20,194.7880
+6,delete key5,224.8287
+6,update key18 newvalue18,207.1857
+6,update key1 newvalue1,182.8671
+6,set key6 value6,267.9825
+6,update key8 newvalue8,332.1171
+6,set key4 value4,148.0579
+6,delete key23,212.9078
+6,get key10,184.7744
+6,set key11 value11,515.2225
+6,delete key18,152.1111
+6,update key3 newvalue3,217.6762
+6,delete key19,227.2129
+6,delete key22,143.2896
+6,set key15 value15,50.0679
+6,get key16,229.8355
+6,delete key21,134.2297
+6,update key12 newvalue12,307.0831
+6,set key5 value5,212.9078
+6,set key9 value9,190.9733
+6,set key22 value22,222.9214
+6,update key15 newvalue15,80.1086
+6,update key14 newvalue14,215.0536
+6,update key9 newvalue9,225.7824
+6,get key2,230.0739
+6,get key25,222.9214
+6,set key10 value10,219.1067
+6,get key17,222.9214
+6,delete key24,230.0739
+6,set key21 value21,303.0300
+6,get key7,225.0671
+6,delete key4,200.7484
+6,delete key3,263.9294
+6,update key20 newvalue20,37.1933
+6,set key2 value2,39.1006
+6,get key4,221.7293
+6,delete key17,232.9350
+6,update key7 newvalue7,218.1530
+6,set key12 value12,211.9541
+6,get key14,221.0140
+6,get key24,106.8115
+6,update key21 newvalue21,205.9937
+6,set key25 value25,220.2988
+6,get key13,201.9405
+6,delete key14,188.3507
+1,delete key16,5004.8828
+1,delete key2,112.0567
+1,update key23 newvalue23,67.2340
+1,delete key1,72.2408
+1,update key16 newvalue16,206.9473
+1,update key2 newvalue2,285.3870
+1,delete key10,172.8535
+1,get key18,236.9881
+1,get key23,201.2253
+1,set key24 value24,233.8886
+1,set key23 value23,215.7688
+1,get key21,208.8547
+1,get key6,228.8818
+1,update key6 newvalue6,214.0999
+1,set key18 value18,217.1993
+1,update key11 newvalue11,197.8874
+1,update key25 newvalue25,96.0827
+1,delete key15,236.7496
+1,update key4 newvalue4,303.0300
+1,update key13 newvalue13,487.0892
+1,update key5 newvalue5,217.1993
+1,delete key6,194.7880
+1,set key17 value17,131.8455
+1,delete key20,252.2469
+1,update key10 newvalue10,215.0536
+1,set key7 value7,249.1474
+1,get key15,362.1578
+1,set key13 value13,204.0863
+1,get key9,222.9214
+1,get key12,225.7824
+1,set key14 value14,217.9146
+1,get key5,143629.7894
+1,get key8,70.0951
+1,update key22 newvalue22,197.1722
+1,update key24 newvalue24,183.1055
+1,get key1,231.9813
+1,get key3,195.0264
+1,delete key13,222.9214
+1,get key22,216.0072
+1,get key19,226.9745
+1,delete key8,205.0400
+1,set key19 value19,222.9214
+1,get key20,215.0536
+1,delete key12,192.1654
+1,delete key7,210.7620
+1,set key16 value16,218.1530
+1,delete key9,230.7892
+1,update key17 newvalue17,218.1530
+1,set key8 value8,216.7225
+1,delete key25,61.9888
+1,update key19 newvalue19,64.1346
+1,delete key11,226.0208
+1,set key1 value1,180.0060
+1,get key11,180.0060
+1,set key3 value3,197.8874
+1,set key20 value20,218.1530
+1,delete key5,218.8683
+1,update key18 newvalue18,198.3643
+1,update key1 newvalue1,406.0268
+1,set key6 value6,335.6934
+1,update key8 newvalue8,175.7145
+1,set key4 value4,214.0999
+1,delete key23,176.1913
+1,get key10,197.8874
+1,set key11 value11,210.7620
+1,delete key18,174.7608
+1,update key3 newvalue3,225.0671
+1,delete key19,143.0511
+1,delete key22,226.0208
+1,set key15 value15,197.8874
+1,get key16,218.1530
+1,delete key21,226.7361
+1,update key12 newvalue12,271.7972
+1,set key5 value5,136.1370
+1,set key9 value9,200.2716
+1,set key22 value22,353.8132
+1,update key15 newvalue15,225.0671
+1,update key14 newvalue14,229.8355
+1,update key9 newvalue9,184.0591
+1,get key2,174.9992
+1,get key25,222.9214
+1,set key10 value10,161.1710
+1,get key17,66.9956
+1,delete key24,427.9613
+1,set key21 value21,199.7948
+1,get key7,194.0727
+1,delete key4,211.9541
+1,delete key3,211.9541
+1,update key20 newvalue20,241.0412
+1,set key2 value2,249.1474
+1,get key4,328.0640
+1,delete key17,411.9873
+1,update key7 newvalue7,207.9010
+1,set key12 value12,228.1666
+1,get key14,208.8547
+1,get key24,246.0480
+1,update key21 newvalue21,211.0004
+1,set key25 value25,154.2568
+1,get key13,209.3315
+1,delete key14,200.9869
+9,delete key16,6150.0072
+9,delete key2,267.9825
+9,update key23 newvalue23,69.1414
+9,delete key1,38.1470
+9,update key16 newvalue16,190.0196
+9,update key2 newvalue2,235.0807
+9,delete key10,216.2457
+9,get key18,224.1135
+9,get key23,189.0659
+9,set key24 value24,190.9733
+9,set key23 value23,165.9393
+9,get key21,217.9146
+9,get key6,155.2105
+9,update key6 newvalue6,211.0004
+9,set key18 value18,211.0004
+9,update key11 newvalue11,218.8683
+9,update key25 newvalue25,209.0931
+9,delete key15,195.0264
+9,update key4 newvalue4,229.8355
+9,update key13 newvalue13,239.8491
+9,update key5 newvalue5,222.9214
+9,delete key6,229.1203
+9,set key17 value17,184.0591
+9,delete key20,224.1135
+9,update key10 newvalue10,216.0072
+9,set key7 value7,200.0332
+9,get key15,202.8942
+9,set key13 value13,206.2321
+9,get key9,102.7584
+9,get key12,207.9010
+9,set key14 value14,328199.8634
+9,get key5,214.0999
+9,get key8,198.8411
+9,update key22 newvalue22,209.8083
+9,update key24 newvalue24,212.9078
+9,get key1,204.0863
+9,get key3,426.0540
+9,delete key13,216.9609
+9,get key22,259.1610
+9,get key19,226.0208
+9,delete key8,232.2197
+9,set key19 value19,143.0511
+9,get key20,125.8850
+9,delete key12,220.7756
+9,delete key7,200.9869
+9,set key16 value16,193.8343
+9,delete key9,220.2988
+9,update key17 newvalue17,204.0863
+9,set key8 value8,212.9078
+9,delete key25,226.0208
+9,update key19 newvalue19,190.9733
+9,delete key11,230.3123
+9,set key1 value1,205.7552
+9,get key11,219.1067
+9,set key3 value3,121.8319
+9,set key20 value20,218.8683
+9,delete key5,150.2037
+9,update key18 newvalue18,202.8942
+9,update key1 newvalue1,229.8355
+9,set key6 value6,220.0603
+9,update key8 newvalue8,187.8738
+9,set key4 value4,195.9801
+9,delete key23,226.0208
+9,get key10,87.0228
+9,set key11 value11,232.2197
+9,delete key18,140.6670
+9,update key3 newvalue3,187.8738
+9,delete key19,229.1203
+9,delete key22,236.9881
+9,set key15 value15,221.9677
+9,get key16,221.0140
+9,delete key21,254.8695
+9,update key12 newvalue12,53.8826
+9,set key5 value5,201.9405
+9,set key9 value9,231.9813
+9,set key22 value22,566.9594
+9,update key15 newvalue15,299.9306
+9,update key14 newvalue14,198.8411
+9,update key9 newvalue9,219.8219
+9,get key2,48.1606
+9,get key25,154.7337
+9,set key10 value10,189.0659
+9,get key17,213.8615
+9,delete key24,214.0999
+9,set key21 value21,222.2061
+9,get key7,216.0072
+9,delete key4,221.0140
+9,delete key3,265.8367
+9,update key20 newvalue20,211.9541
+9,set key2 value2,1749.0387
+9,get key4,176.9066
+9,delete key17,157.1178
+9,update key7 newvalue7,222.9214
+9,set key12 value12,218.8683
+9,get key14,230.7892
+9,get key24,219.1067
+9,update key21 newvalue21,192.8806
+9,set key25 value25,126.8387
+9,get key13,237.9417
+9,delete key14,181.9134

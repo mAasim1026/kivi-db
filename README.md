@@ -12,6 +12,14 @@
 
 ---
 
+## **Requirements**  
+- sqlite3 package
+```
+sudo apt install sqlite3 libsqlite3-dev
+```
+
+---
+
 ## **Supported Commands**  
 1. **SET**: Add a new key-value pair.  
    - Example: `set key value \r\n`  
